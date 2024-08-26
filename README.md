@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tayalankit20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sA6nWjiCP1KKV5fYeOmcgAt8HthUh5ac/view](https://drive.google.com/file/d/1sA6nWjiCP1KKV5fYeOmcgAt8HthUh5ac/view)
+- 📄 Know about my experiences [Resume](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
 
 - ⚡ Fun fact **Once I submitted my assignment in form of website http://ankit.scienceontheweb.net/**
 
