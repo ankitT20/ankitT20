@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tayalankit20@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
+- 📄 Know about my experiences [**Resume**](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
 
 - ⚡ Fun fact **Once I submitted my assignment in form of website http://ankit.scienceontheweb.net/**
 
@@ -39,3 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitt20&show_icons=true&locale=en" alt="ankitt20" /></p>
 
+<!-- 
+c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add .; git commit -a -m "additional commit 26 Oct 2024"; git push -u origin main;
+ -->
