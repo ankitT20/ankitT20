@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitt_20" target="blank"><img src="https://img.shields.io/twitter/follow/ankitt_20?logo=twitter&style=for-the-badge" alt="ankitt_20" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Web Development**
+- 📄 Know about my experiences [**Resume**](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
+
+- 🔭 I’m currently working on **JAVA Spring Boot**
 
 - 🌱 I’m currently learning **Java and DSA**
 
@@ -16,8 +18,6 @@
 - 💬 Ask me about **Cloud, Python**
 
 - 📫 How to reach me **tayalankit20@gmail.com**
-
-- 📄 Know about my experiences [**Resume**](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
 
 - ⚡ Fun fact **Once I submitted my assignment in form of website http://ankit.scienceontheweb.net/**
 
@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/ankit-tayal-ip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-tayal-ip" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8487039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8487039" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankittayal" height="30" width="40" /></a>
-<a href="https://instagram.com/_ankittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankittayal" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/_ankittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankittayal" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/@ankittayal8291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ankittayal8291" height="30" width="40" /></a>
 </p>
 
@@ -40,5 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitt20&show_icons=true&locale=en" alt="ankitt20" /></p>
 
 <!-- 
-c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add .; git commit -a -m "additional commit 26 Oct 2024"; git push -u origin main;
+c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add .; git commit -a -m "update Readme"; git push -u origin main;
  -->
