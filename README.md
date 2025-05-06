@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Tayal</h1>
+<h1 align="center">Hi👋, I'm Ankit Tayal</h1>
 <h3 align="center"> I hold a Bachelor of Technology Degree specialization in Industrial Internet of Things from University School of Automation and Robotics, GGSIPU, New Delhi, and I’m a <strong>Java Developer</strong> with expertise in <strong>Java 8</strong>, <strong>Spring Boot</strong>, and the <strong>Collection Framework</strong>, specializing in backend development and cloud solutions using <strong>AWS</strong>. I’m proficient in <strong>Linux</strong> and <strong>Git</strong> for managing environments and version control. My experience includes building scalable systems with <strong>Kafka</strong>, <strong>Redis</strong>, <strong>ElasticSearch</strong>, and <strong>ELK</strong> for data streaming, caching, and search capabilities. I also develop <strong>Node.js</strong> CRUD applications with <strong>JWT</strong> for secure authentication and integrate <strong>React</strong> for frontend solutions. I also have experience with virtualization technologies, <strong>SQL</strong>, <strong>Python</strong>, and Windows server administration. If you need assistance with backend development, cloud infrastructure, or application performance optimization, let's connect!  </h3>    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitt20&label=Profile%20views&color=0e75b6&style=flat" alt="ankitt20" /> </p>
@@ -11,15 +11,20 @@
 
 - 🔭 I’m currently working on **JAVA Spring Boot**
 
-- 🌱 I’m currently learning **Java and DSA**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitT20](https://github.com/ankitT20)
 
 - 💬 Ask me about **AWS, Python, LLMs**
 
-- 📫 How to reach me **tayalankit20@gmail.com**
-
 - ⚡ Fun fact **Once I submitted my assignment in form of website http://ankit.scienceontheweb.net/**
+
+- 📫 How to reach me **tayalankit20@gmail.com**
+[![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:tayalankit20@gmail.com)
+
+
+<!-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +33,7 @@
 <a href="https://linkedin.com/in/ankit-tayal-ip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-tayal-ip" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8487039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8487039" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankittayal" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/_ankittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankittayal" height="30" width="40" /></a> -->
+<a href="https://instagram.com/_ankittayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankittayal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ankittayal8291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ankittayal8291" height="30" width="40" /></a>
 </p>
 
@@ -39,6 +44,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitt20&show_icons=true&locale=en&theme=transparent" alt="ankitt20" /></p>
 
+
+ -->
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=495px)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight)  
+
 <!-- 
-c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add .; git commit -a -m "update Readme"; git push -u origin main;
+c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
  -->
