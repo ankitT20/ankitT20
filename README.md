@@ -49,8 +49,8 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=400px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=370px)  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)  
 
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
