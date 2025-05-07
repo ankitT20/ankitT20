@@ -44,14 +44,22 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitt20&show_icons=true&locale=en&theme=transparent" alt="ankitt20" /></p>
 
+
+
+
+
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight" width="390px" />
+
  -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight" width="390px" />
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)
 
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
  -->
+ 
