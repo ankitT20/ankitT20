@@ -5,8 +5,11 @@ on:
     branches:
       - main
   schedule: 
-    - cron: "0 0 * * 0"
+    - cron: "0 0 * * */2"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -19,10 +22,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit and push files
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
-          author_name: "Github Actions" 
-          author_email: "actions@github.com"
+          author_name: "Ankit Tayal" 
+          author_email: "tayalankit20@gmail.com"
           message: "Update Profile Summary"
           add: "."
           push: "https://github.com/ankitT20/ankitT20.git"
