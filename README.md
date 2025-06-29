@@ -59,8 +59,11 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)
 
-[![](https://streak-stats.demolab.com?user=ankitT20&theme=tokyonight&card_width=390)]
-[![](https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight&card_width=390)]
+![](https://streak-stats.demolab.com?user=ankitT20&theme=tokyonight&card_width=390)
+![](https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight&card_width=390)
+
+
+
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
  -->
