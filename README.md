@@ -52,17 +52,16 @@
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight" width="390px" />
+![](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=ankitT20&theme=tokyonight)
 
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)
  -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankitT20&theme=cobalt2&show_icons=true&card_width=430px)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankitT20&show_icons=true&theme=tokyonight&card_width=390px)
+![](https://github-readme-stats.vercel.app/api?username=ankitT20&show_icons=true&theme=cobalt2)
+![](https://streak-stats.demolab.com/demo/preview.php?user=ankitT20&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=ankitT20&theme=tokyonight&card_width=390)
-![](https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight&card_width=390)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankitT20&theme=tokyonight" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
