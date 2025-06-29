@@ -61,7 +61,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![](https://github-readme-stats.vercel.app/api?username=ankitT20&show_icons=true&theme=cobalt2)
 ![](https://streak-stats.demolab.com/demo/preview.php?user=ankitT20&theme=tokyonight)
-
+![](https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight)
 
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
