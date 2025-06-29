@@ -61,8 +61,8 @@
 
 ![](https://streak-stats.demolab.com?user=ankitT20&theme=tokyonight&card_width=390)
 ![](https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight&card_width=390)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankitT20&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ankitT20&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <!-- 
 c:; cd 'c:\Users\ANKIT\Documents\VScode\ankitT20'; git add -A; git commit -m "update Readme"; git push;
