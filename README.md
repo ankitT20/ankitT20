@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Ankit Tayal</h1>
-<h3 align="center"> I hold a Bachelor of Technology Degree specialization in Industrial Internet of Things from University School of Automation and Robotics, GGSIPU, New Delhi, and I’m a <strong>Java Developer</strong> with expertise in <strong>Java 8</strong>, <strong>Spring Boot</strong>, and the <strong>Collection Framework</strong>, specializing in backend development and cloud solutions using <strong>AWS</strong>. I’m proficient in <strong>Linux</strong> and <strong>Git</strong> for managing environments and version control. My experience includes building scalable systems with <strong>Kafka</strong>, <strong>Redis</strong>, <strong>ElasticSearch</strong>, and <strong>ELK</strong> for data streaming, caching, and search capabilities. I also develop <strong>Node.js</strong> CRUD applications with <strong>JWT</strong> for secure authentication and integrate <strong>React</strong> for frontend solutions. I also have experience with virtualization technologies, <strong>SQL</strong>, <strong>Python</strong>, and Windows server administration. If you need assistance with backend development, cloud infrastructure, or application performance optimization, let's connect!  </h3>    
+<h3 align="center"> DevOps Engineer and Backend Developer passionate about building robust backend systems and automating cloud-native infrastructure. With hands-on experience in Java Spring Boot, Kubernetes, Docker, CI/CD, and Cloud Platforms (AWS, GCP), I specialize in delivering secure, scalable, and production-grade software. I'm certified in AWS, GitHub, and Oracle Cloud, and currently contribute to agentic AI systems and LLM infrastructure at Prodigal AI. Explore my portfolio and pinned projects to see how I blend engineering best practices with real-world impact. Let’s build something amazing! </h3>    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitt20&label=Profile%20views&color=0e75b6&style=flat" alt="ankitt20" /> </p>
 
@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/ankitt_20" target="blank"><img src="https://img.shields.io/twitter/follow/ankitt_20?logo=twitter&style=for-the-badge" alt="ankitt_20" /></a> </p>
 
 - 📄 Know about my experiences [**Resume**](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
+
+- 🌐 Portfolio: [ankit20.vercel.app](https://ankit20.vercel.app/)
 
 - 🔭 I’m currently working on **JAVA Spring Boot**
 
