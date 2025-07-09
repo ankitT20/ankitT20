@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitt20&title=-Reviews&no-bg=true&theme=onedark" alt="ankitt20" /></a> </p>
 
-<h3 align="center">
+<h2 align="center">
   <a href="https://ankit20.vercel.app/" target="_blank" rel="noopener noreferrer">
-    🚀 CHECK OUT MY PORTFOLIO WEBSITE 🚀    <img src="https://img.shields.io/badge/ankit20.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/></a>
-</h3>
+    🚀 CHECK OUT MY PORTFOLIO WEBSITE 🚀<br>
+    <img src="https://img.shields.io/badge/ankit20.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</h2>
 
 <p align="left"> <a href="https://twitter.com/ankitt_20" target="blank"><img src="https://img.shields.io/twitter/follow/ankitt_20?logo=twitter&style=for-the-badge" alt="ankitt_20" /></a> </p>
 
