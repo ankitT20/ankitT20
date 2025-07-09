@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitt_20" target="blank"><img src="https://img.shields.io/twitter/follow/ankitt_20?logo=twitter&style=for-the-badge" alt="ankitt_20" /></a> </p>
 
-- 📄 Know about my experiences [**Resume**](https://github.com/ankitT20/my_Portfolio/blob/main/src/assets/resume.pdf)
-
 - 🌐 Portfolio: [ankit20.vercel.app](https://ankit20.vercel.app/)
+- 
+- 📄 Know about my experiences [**Resume**](https://github.com/ankitT20/portfolio/blob/main/public/Ankit_Tayal_Resume.pdf)
 
 - 🔭 I’m currently working on **JAVA Spring Boot**
 
