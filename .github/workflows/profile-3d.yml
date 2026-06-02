@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
